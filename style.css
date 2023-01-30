@@ -1,0 +1,21 @@
+.Cabeçalho {
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: brown;
+    color:aliceblue
+}
+
+.Conteudo {
+    margin: 30px auto;
+    max-width: 90vw;
+}
+
+.Caixa {
+    color:aliceblue;
+    background-color: green;
+    width: 30vw;
+    height: 100vh;
+    margin: 1vw 7.5vw;
+    float: left
+}

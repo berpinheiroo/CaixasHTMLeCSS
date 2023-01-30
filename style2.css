@@ -1,0 +1,19 @@
+.Cabeçalho {
+    max-width: 90vw;
+    margin: 0 auto;
+    text-align: center;
+    background-color: goldenrod;
+}
+
+.Conteudo {
+    max-width: 90vw;
+    margin:30px auto;
+}
+
+.Caixa {
+    width: 25vw;
+    height: 15vh;
+    margin: 1vh 2.5vw;
+    background-color: violet;
+    float: left
+}
